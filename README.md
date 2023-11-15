@@ -4,7 +4,7 @@
 
 ### About me
 
-I am a Mechanical and Software engineer
+As a Mechanical and Software Engineer, I am dedicated to democratizing the creation and design of systems.
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
