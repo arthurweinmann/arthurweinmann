@@ -4,22 +4,17 @@
 
 ### About me
 
-As a Mechanical and Software Engineer, I am dedicated to democratizing the creation and design of systems.
+I deliver ideas thanks to software.
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
-### Life goals
+### Guidelines
 
-- Make digital systems like biological ones: decentralized, robust, resilient, adaptable, interoperable, competitive, collaborative, space filling, efficient, redundant, etc.
-- Enable more people to be creators and producers
-- Free human creativity from technical and implementation tasks
-- Everybody has their own engineer assistant. Think Jarvis from Iron-Man or E-Butler from Peter F Hamilton commonwealth book saga.
-- Decentralize
+- Sotware that imitates life: decentralized, resilient, adaptable, interoperable, competitive, collaborative, space filling, efficient and redundant.
+- Less gluecode is better
 - Secure internet's future as a free medium for collaboration
 
 ### Readings
-
-- Energy efficiency is great, abundant energy is even better: [https://www.thepsmiths.com/p/review-energy-and-civilization-by](https://www.thepsmiths.com/p/review-energy-and-civilization-by)
 
 - Children of time and Children of ruin, by Adrian tchaikovsky: [https://en.wikipedia.org/wiki/Children_of_Time_(novel)](https://en.wikipedia.org/wiki/Children_of_Time_(novel)) and [https://en.wikipedia.org/wiki/Children_of_Ruin](https://en.wikipedia.org/wiki/Children_of_Ruin)
 
