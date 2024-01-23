@@ -8,11 +8,11 @@ I deliver ideas thanks to software.
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
-### Guidelines
+### I believe
 
-- Sotware that imitates life: decentralized, resilient, adaptable, interoperable, competitive, collaborative, space filling, efficient and redundant.
-- Less gluecode is better
-- Secure internet's future as a free medium for collaboration
+- We should limit software complexity to the minimum amount necessary to accomplish the purpose
+- Sotware should imitate life more and be: decentralized, resilient, adaptable, interoperable, competitive and collaborative at the same time, space filling, efficient and redundant
+- We should secure internet's future as a free medium for collaboration
 
 ### Readings
 
