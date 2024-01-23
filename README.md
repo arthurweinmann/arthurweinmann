@@ -10,8 +10,8 @@ I deliver ideas thanks to software.
 
 ### I believe
 
-- We should limit software complexity to the minimum amount necessary to accomplish the purpose
-- Sotware should imitate life more and be: decentralized, resilient, adaptable, interoperable, competitive and collaborative at the same time, space filling, efficient and redundant
+- We should limit complexity to the minimum amount necessary to accomplish the purpose
+- We should imitate life more and be: decentralized, resilient, adaptable, interoperable, competitive and collaborative at the same time, space filling, efficient and redundant
 - We should secure internet's future as a free medium for collaboration
 
 ### Readings
