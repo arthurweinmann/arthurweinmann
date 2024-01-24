@@ -4,7 +4,7 @@
 
 ### About me
 
-I deliver ideas thanks to software.
+On a mission to enable everybody to build their ideas
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
