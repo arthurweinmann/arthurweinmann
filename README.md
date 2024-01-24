@@ -8,7 +8,7 @@ On a mission to enable everybody to build their ideas
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
-### Readings
+### My book list
 
 - Children of time and Children of ruin, by Adrian tchaikovsky: [https://en.wikipedia.org/wiki/Children_of_Time_(novel)](https://en.wikipedia.org/wiki/Children_of_Time_(novel)) and [https://en.wikipedia.org/wiki/Children_of_Ruin](https://en.wikipedia.org/wiki/Children_of_Ruin)
 
