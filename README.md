@@ -8,12 +8,6 @@ On a mission to enable everybody to build their ideas
 
 [![GitHub Arthur](https://img.shields.io/github/followers/arthurweinmann?label=follow%20my%20work%20on%20github&style=social)](https://github.com/Arthurweinmann)
 
-### I believe
-
-- We should limit complexity to the minimum amount necessary to accomplish the purpose
-- We should imitate life more and be: decentralized, resilient, adaptable, interoperable, competitive and collaborative at the same time, space filling, efficient and redundant
-- We should secure internet's future as a free medium for collaboration
-
 ### Readings
 
 - Children of time and Children of ruin, by Adrian tchaikovsky: [https://en.wikipedia.org/wiki/Children_of_Time_(novel)](https://en.wikipedia.org/wiki/Children_of_Time_(novel)) and [https://en.wikipedia.org/wiki/Children_of_Ruin](https://en.wikipedia.org/wiki/Children_of_Ruin)
