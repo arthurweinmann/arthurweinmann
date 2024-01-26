@@ -15,7 +15,7 @@ On a mission to enable everybody to build their ideas
 - [A RPC server (custom protocol) for Puppeteer browser automation:call any method from a simple http request](https://github.com/arthurweinmann/puppeteer-server)
 - [An experience and ongoing project in writing helpers to make Vanilla Javascript a more viable option](https://github.com/arthurweinmann/tinyveil)
 
-### My book list
+### Possible "great at the end" futures
 
 - Children of time and Children of ruin, by Adrian tchaikovsky: [https://en.wikipedia.org/wiki/Children_of_Time_(novel)](https://en.wikipedia.org/wiki/Children_of_Time_(novel)) and [https://en.wikipedia.org/wiki/Children_of_Ruin](https://en.wikipedia.org/wiki/Children_of_Ruin)
 
